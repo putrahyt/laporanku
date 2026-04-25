@@ -1,7 +1,6 @@
 # 📋 Laporanku
 Website laporan harian dan akhir peserta magang di DISKOMINFO Medan.
 
----
 
 ## 📸 Screenshot
 
@@ -39,7 +38,7 @@ Website laporan harian dan akhir peserta magang di DISKOMINFO Medan.
 | Role | Username | Password |
 |------|----------|----------|
 | Admin | adminlaporanku | 12345678 |
-| Peserta | peserta | 1234567 |
+| Peserta | peserta | 12345678 |
 | Mentor | mentorti | 12345678 |
 
 ---
